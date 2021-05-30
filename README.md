@@ -1,4 +1,6 @@
 ### Hi I'm Lei 👋
+[![Linkedin: Lei](https://img.shields.io/badge/-Lei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lei-huang-663990195/)](https://www.linkedin.com/in/lei-huang-663990195/)
+<img align='right' src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="230">
 
 🌱 I’m currently learning front-end dev.
 🔭 I'm currently looking for a job.
