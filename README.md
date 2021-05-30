@@ -7,7 +7,7 @@
 <p>🌱 I’m currently learning front-end dev.</p>
 <p>🔭 I'm currently looking for a job.</p>
 
-<h3> A little more about me...<h3>
+<h3> A little more about me...</h3>
 
 <p>😄 Pronouns: she/her</p>
 <p>⚡ Fun fact: Eating rice or noodles makes me feel sleepy.</p>
