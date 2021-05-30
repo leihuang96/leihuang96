@@ -4,12 +4,12 @@
 
 <img align='right' src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="230">
 
-<p>🌱 I’m currently learning front-end dev.</p></br>
+<p>🌱 I’m currently learning front-end dev.</p>
 <p>🔭 I'm currently looking for a job.</p>
 
-### <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="50"> A little more about me...  
+<h3> A little more about me...<h3>
 
-<p>😄 Pronouns: she/her</p></br>
+<p>😄 Pronouns: she/her</p>
 <p>⚡ Fun fact: Eating rice or noodles makes me feel sleepy.</p>
 <!--
 **leihuang96/leihuang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
