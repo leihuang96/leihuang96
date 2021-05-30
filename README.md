@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning front-end dev.
 🔭 I'm currently looking for a job.
-
+<iframe src="https://giphy.com/embed/dNgK7Ws7y176U" width="480" height="331" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/homework-dNgK7Ws7y176U">via GIPHY</a></p>
 😄 Pronouns: she/her
 ⚡ Fun fact: Eating rice or noodles makes me feel sleepy.
 <!--
