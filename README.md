@@ -1,5 +1,7 @@
 <h2> Hi I'm Lei 👋</h2>
+
 [![Linkedin: Lei](https://img.shields.io/badge/-Lei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lei-huang-663990195/)](https://www.linkedin.com/in/lei-huang-663990195/)
+
 <img align='right' src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="230">
 
 <p>🌱 I’m currently learning front-end dev.</p></br>
