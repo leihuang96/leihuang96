@@ -1,14 +1,14 @@
-### Hi I'm Lei 👋
+<h2> Hi I'm Lei 👋</h2>
 [![Linkedin: Lei](https://img.shields.io/badge/-Lei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lei-huang-663990195/)](https://www.linkedin.com/in/lei-huang-663990195/)
 <img align='right' src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="230">
 
-🌱 I’m currently learning front-end dev.
-🔭 I'm currently looking for a job.
+<p>🌱 I’m currently learning front-end dev.</p></br>
+<p>🔭 I'm currently looking for a job.</p>
 
 ### <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="50"> A little more about me...  
 
-😄 Pronouns: she/her
-⚡ Fun fact: Eating rice or noodles makes me feel sleepy.
+<p>😄 Pronouns: she/her</p></br>
+<p>⚡ Fun fact: Eating rice or noodles makes me feel sleepy.</p>
 <!--
 **leihuang96/leihuang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
