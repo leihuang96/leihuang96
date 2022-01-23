@@ -2,7 +2,7 @@
 <img align='right' src="profileLogo.gif" width="200">
 
 
-[![Linkedin: Lei](https://img.shields.io/badge/-Lei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisislei-h)](https://www.linkedin.com/in/lei-huang-663990195/)
+[![Linkedin: Lei](https://img.shields.io/badge/-Lei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisislei-h)](https://www.linkedin.com/in/thisislei-h/)
 
 <p>🌱 I’m currently learning HTML, CSS, and JavaScript.</p>
 <p>🔭 I'm currently looking for a job.</p>
